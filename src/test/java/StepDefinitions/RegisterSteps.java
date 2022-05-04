@@ -9,7 +9,7 @@ import java.util.Map;
 public class RegisterSteps {
     @Given("I open website")
     public void openWebsite() {
-        System.out.println("I open website step");
+        System.out.println("I open website step ");
     }
     @When("I open Register page")
     public void i_open_register_page() {
